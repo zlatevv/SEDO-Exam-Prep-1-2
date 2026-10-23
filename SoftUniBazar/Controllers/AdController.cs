@@ -16,6 +16,7 @@ namespace SoftUniBazar.Controllers
 
         public AdController(BazarDbContext data)
         {
+            
             _data = data;
         }
 
